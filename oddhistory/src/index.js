@@ -3,7 +3,21 @@ var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-u
 
 /* Array containing space facts */
 var FACTS = [
-    "facts go here...",
+    "The world's youngest parents were age 8 and 9. They lived in China and had their child in 1910.",
+    "In the 16th and 17th centuries in the country of Turkey, anyone caught drinking coffee was put to death.",
+    "Abraham Lincoln's dog, Fido, was also assassinated.",
+    "In England, the Speaker of the House is not allowed to speak.",
+    "About 3,000 years ago, most Egyptians died by the time they were 30.",
+    "If a statue in the park of a person on a horse has both front legs in the air, the person died in battle. If the horse has one front leg in the air, the person died as a result of wounds received in battle. If the horse has all four legs on the ground, the person died of natural causes.",
+    "The youngest pope was 11 years old.",
+    "Richard Versalle, a tenor performing at New York's Metropolitan Opera House, suffered a heart attack and fell 10 feet from a ladder to the stage just after singing the line, 'You can only live so long.'",
+    "60.7 percent of eligible voters participated in the 2004 presidential election, the highest percentage in 36 years. However, more than 78 million did not vote. This means President Bush was re-elected by less than 31% of all eligible voters in the United States.",
+    "David Bowie used to think he was being stalked by someone who is dressed like a giant pink rabbit. Bowie noticed the fan at several recent concerts, but became alarmed when he got on a plane and the bunny was also on board.",
+    "Wayne's World was filmed in two weeks.",
+    "The first Ford cars had engines made by Dodge.",
+    "In Ancient Egypt , priests plucked every hair from their bodies, including their eyebrows and eyelashes.",
+    "More than 8,100 US troops are still listed as missing in action from the Korean War.",
+    "Toto was paid $125 per week while filming The Wizard of Oz."
 ];
 
 
