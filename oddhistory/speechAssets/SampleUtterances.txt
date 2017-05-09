@@ -1,0 +1,17 @@
+GetNewFactIntent a fact
+GetNewFactIntent an odd history fact
+GetNewFactIntent a history fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me an odd history fact
+GetNewFactIntent tell me a history fact
+GetNewFactIntent tell me something
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a history fact
+GetNewFactIntent give me an odd history fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me some odd history trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me odd history trivia
+GetNewFactIntent give me something
+GetNewFactIntent give me some information
+GetNewFactIntent give me some odd history
